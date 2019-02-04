@@ -1,0 +1,3 @@
+BASE: 'https://api.steampowered.com'
+ENDPOINT:
+  USERS: '/test'
